@@ -19,7 +19,7 @@ Experience across Solutions and Support Engineering with emphasis on automation 
 
 ---
 
-## 🎯 Professional Focus
+## Professional Focus
 
 - Scalable UI automation architecture
 - Regression strategy design & optimization
@@ -29,7 +29,7 @@ Experience across Solutions and Support Engineering with emphasis on automation 
 
 ---
 
-## 🧠 Core Capabilities
+## Core Capabilities
 
 - Designing maintainable, low-friction automation suites  
 - Flaky test diagnosis and systemic stability improvements  
@@ -39,7 +39,7 @@ Experience across Solutions and Support Engineering with emphasis on automation 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### SmartSheet Converter  
 Privacy-first, browser-based spreadsheet tool for previewing, editing, and converting Excel, CSV, and TSV files — processed entirely locally.  
@@ -55,7 +55,7 @@ Interactive tool for constructing and testing regular expressions with a simplif
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 **Languages**  
 JavaScript · TypeScript · Python · SQL
