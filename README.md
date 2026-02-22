@@ -3,11 +3,11 @@
 <h1>Priteeranjan Das</h1>
 
 <p>
-Technical Training Engineer focused on scalable UI automation systems and structured implementation enablement.
+Technical Training Engineer focused on scalable UI automation and structured implementation enablement.
 </p>
 
 <p>
-Experience across Solutions and Support Engineering with emphasis on automation implementation, system reliability, and production-level troubleshooting.
+Background in Solutions and Support Engineering with emphasis on automation reliability and production-level diagnostics.
 </p>
 
 <p>
