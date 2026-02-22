@@ -57,8 +57,6 @@ Interactive tool for constructing and testing regular expressions with a simplif
 
 ## 🛠 Technical Stack
 
-## 🛠 Technical Stack
-
 **Languages**  
 JavaScript · TypeScript · Python · SQL
 
