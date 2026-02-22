@@ -1,8 +1,21 @@
-# Hi, I'm Priteeranjan 👋
+<div align="center">
 
-Technical Training Engineer specializing in scalable UI automation systems and structured implementation enablement.
+<h1>Priteeranjan Das</h1>
 
-Professional experience across Solutions and Support Engineering, focused on automation implementation, reliability optimization, and production-level issue analysis.
+<p>
+Technical Training Engineer focused on scalable UI automation systems and structured implementation enablement.
+</p>
+
+<p>
+Experience across Solutions and Support Engineering with emphasis on automation implementation, system reliability, and production-level troubleshooting.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/priteeranjan-das/">LinkedIn</a> |
+<a href="mailto:priteeranjan3@gmail.com">Email</a>
+</p>
+
+</div>
 
 ---
 
@@ -42,31 +55,21 @@ Interactive tool for constructing and testing regular expressions with a simplif
 
 ---
 
-## 🛠 Technical Environment
+## 🛠 Technical Stack
 
-**Automation Engineering**
-- End-to-End UI automation design
-- Regression suite structuring
-- Stability optimization & failure diagnostics
-- Data-driven test planning
+## 🛠 Technical Stack
 
-**CI/CD & Workflow Integration**
-- Pipeline-based automation execution
-- Automated reporting & failure analysis
-- Continuous regression strategies
+**Languages**  
+JavaScript · TypeScript · Python · SQL
 
-**System & Data Validation**
-- JavaScript (validation logic & workflow checks)
-- PostgreSQL (data verification in automated flows)
-- API validation within test scenarios
+**Frontend**  
+React · Tailwind CSS · HTML
 
-**Tooling & Collaboration**
-- Git-based workflows
-- Debugging & log analysis
-- Test environment configuration & maintenance
+**Backend**  
+Node.js · Express · REST APIs
 
----
+**Data**  
+PostgreSQL
 
-## 📫 Open to Connect
-
-- LinkedIn: https://www.linkedin.com/in/priteeranjan-das/
+**CI/CD**  
+GitHub Actions · Jenkins
