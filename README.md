@@ -18,24 +18,22 @@ Background in Solutions and Support Engineering with emphasis on automation reli
 </div>
 
 ---
+## Technical Stack
 
-## Professional Focus
+**Languages**  
+JavaScript · TypeScript · Python · SQL
 
-- Scalable UI automation architecture
-- Regression strategy design & optimization
-- Automation reliability & stability engineering
-- CI/CD-based test execution workflows
-- Technical training & structured enablement programs
+**Frontend**  
+React · Tailwind CSS · HTML
 
----
+**Backend**  
+Node.js · Express · REST APIs
 
-## Core Capabilities
+**Data**  
+PostgreSQL
 
-- Designing maintainable, low-friction automation suites  
-- Flaky test diagnosis and systemic stability improvements  
-- Root-cause analysis across UI, API, and data layers  
-- Automation integration within continuous delivery pipelines  
-- Development of onboarding frameworks and implementation playbooks  
+**CI/CD**  
+GitHub Actions · Jenkins
 
 ---
 
@@ -55,19 +53,20 @@ Interactive tool for constructing and testing regular expressions with a simplif
 
 ---
 
-## Technical Stack
+## Professional Focus
 
-**Languages**  
-JavaScript · TypeScript · Python · SQL
+- Scalable UI automation architecture
+- Regression strategy design & optimization
+- Automation reliability & stability engineering
+- CI/CD-based test execution workflows
+- Technical training & structured enablement programs
 
-**Frontend**  
-React · Tailwind CSS · HTML
+---
 
-**Backend**  
-Node.js · Express · REST APIs
+## Core Capabilities
 
-**Data**  
-PostgreSQL
-
-**CI/CD**  
-GitHub Actions · Jenkins
+- Designing maintainable, low-friction automation suites  
+- Flaky test diagnosis and systemic stability improvements  
+- Root-cause analysis across UI, API, and data layers  
+- Automation integration within continuous delivery pipelines  
+- Development of onboarding frameworks and implementation playbooks  
