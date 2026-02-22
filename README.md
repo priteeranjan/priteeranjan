@@ -69,4 +69,4 @@ Interactive tool for constructing and testing regular expressions with a simplif
 
 ## 📫 Open to Connect
 
-Interested in discussions around scalable automation systems, implementation strategy, and technical enablement.
+- LinkedIn: https://www.linkedin.com/in/priteeranjan-das/
