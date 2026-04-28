@@ -44,7 +44,7 @@ Privacy-first, browser-based spreadsheet tool for previewing, editing, and conve
 🔗 https://tr-smartsheet.netlify.app/
 
 ###  Credonsync
-Credonsync - Personal Finance Dashboard 
+Credonsync - Track credit card usage, manage monthly budgets, monitor investments, and analyze spending patterns with Credonsync - your personal finance companion.
 🔗 https://credonsync.vercel.app/
 
 ### APK Analyzer  
