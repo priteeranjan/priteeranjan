@@ -44,7 +44,7 @@ Privacy-first, browser-based spreadsheet tool for previewing, editing, and conve
 🔗 https://tr-smartsheet.netlify.app/
 
 ### Tarkov Quest Tracker
-Tarkov Universal Tracker ————————— Kappa Quest Tracker —————————— Kappa Quests —————————— Kappa Items —————————— Hideout Items
+Tarkov Universal Tracker —————— Kappa Quest Tracker ——————— Kappa Quests ——————— Kappa Items ——————— Hideout Items
 🔗 https://tarkov.ninjax3d.in/
 
 ### APK Analyzer  
