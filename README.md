@@ -43,6 +43,10 @@ GitHub Actions · Jenkins
 Privacy-first, browser-based spreadsheet tool for previewing, editing, and converting Excel, CSV, and TSV files — processed entirely locally.  
 🔗 https://tr-smartsheet.netlify.app/
 
+### Tarkov Quest Tracker
+Tarkov Universal Tracker - Kappa Quest Tracker | Kappa Quests | Kappa Items | Hideout Items
+🔗 https://tarkov.ninjax3d.in/
+
 ### APK Analyzer  
 Lightweight web-based Android package inspection tool for analyzing SDK usage, ABIs, native libraries, and framework dependencies.  
 🔗 https://apk-analyzer.netlify.app/
