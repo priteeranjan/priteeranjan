@@ -43,10 +43,6 @@ GitHub Actions · Jenkins
 Privacy-first, browser-based spreadsheet tool for previewing, editing, and converting Excel, CSV, and TSV files — processed entirely locally.  
 🔗 https://tr-smartsheet.netlify.app/
 
-###  Credonsync
-Credonsync - Track credit card usage, manage monthly budgets, monitor investments, and analyze spending patterns with Credonsync.  
-🔗 https://credonsync.vercel.app/
-
 ### APK Analyzer  
 Lightweight web-based Android package inspection tool for analyzing SDK usage, ABIs, native libraries, and framework dependencies.  
 🔗 https://apk-analyzer.netlify.app/
