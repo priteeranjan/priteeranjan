@@ -44,7 +44,7 @@ Privacy-first, browser-based spreadsheet tool for previewing, editing, and conve
 🔗 https://tr-smartsheet.netlify.app/
 
 ###  Credonsync
-Credonsync - Track credit card usage, manage monthly budgets, monitor investments, and analyze spending patterns with Credonsync.
+Credonsync - Track credit card usage, manage monthly budgets, monitor investments, and analyze spending patterns with Credonsync.  
 🔗 https://credonsync.vercel.app/
 
 ### APK Analyzer  
