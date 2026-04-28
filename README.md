@@ -44,7 +44,7 @@ Privacy-first, browser-based spreadsheet tool for previewing, editing, and conve
 🔗 https://tr-smartsheet.netlify.app/
 
 ###  Credonsync
-Credonsync | Personal Finance Dashboard 
+Credonsync - Personal Finance Dashboard 
 🔗 https://credonsync.vercel.app/
 
 ### APK Analyzer  
