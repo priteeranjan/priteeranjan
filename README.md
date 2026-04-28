@@ -43,13 +43,13 @@ GitHub Actions · Jenkins
 Privacy-first, browser-based spreadsheet tool for previewing, editing, and converting Excel, CSV, and TSV files — processed entirely locally.  
 🔗 https://tr-smartsheet.netlify.app/
 
+###  Credonsync
+Credonsync | Personal Finance Dashboard 
+🔗 https://credonsync.vercel.app/
+
 ### APK Analyzer  
 Lightweight web-based Android package inspection tool for analyzing SDK usage, ABIs, native libraries, and framework dependencies.  
 🔗 https://apk-analyzer.netlify.app/
-
-### Regex Builder  
-Interactive tool for constructing and testing regular expressions with a simplified workflow.  
-🔗 https://tr-regex-builder.netlify.app/
 
 ---
 
