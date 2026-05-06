@@ -52,7 +52,7 @@ Lightweight web-based Android package inspection tool for analyzing SDK usage, A
 🔗 https://apk-analyzer.netlify.app
 
 ### CredonSync
-A modern, privacy-focused finance dashboard for tracking credit card spending, bills, and financial analytics. All data is stored locally in your browser - no cloud storage, 100% private.
+A privacy-focused finance dashboard for tracking credit card spending, bills, and financial analytics. All data is stored locally in your browser.
 🔗 https://credonsync.vercel.app
 ---
 
