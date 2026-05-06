@@ -39,21 +39,36 @@ GitHub Actions · Jenkins
 
 ## Projects
 
-### SmartSheet Converter  
-Privacy-first, browser-based spreadsheet tool for previewing, editing, and converting Excel, CSV, and TSV files — processed entirely locally.  
+## SmartSheet Converter
+
+Privacy-first, browser-based spreadsheet tool for previewing, editing, and converting Excel, CSV, and TSV files — processed entirely locally.
+
 🔗 https://tr-smartsheet.netlify.app
 
-### Tarkov Quest Tracker
-Tarkov Universal Tracker ———— Kappa Quest Tracker ———— Kappa Quests ———— Kappa Items ———— Hideout Items ————
- 🔗 https://tarkov.ninjax3d.in
+---
 
-### APK Analyzer  
-Lightweight web-based Android package inspection tool for analyzing SDK usage, ABIs, native libraries, and framework dependencies.  
+## Tarkov Quest Tracker
+
+Tarkov Universal Tracker — Kappa Quest Tracker — Kappa Quests — Kappa Items — Hideout Items
+
+🔗 https://tarkov.ninjax3d.in
+
+---
+
+## APK Analyzer
+
+Lightweight web-based Android package inspection tool for analyzing SDK usage, ABIs, native libraries, and framework dependencies.
+
 🔗 https://apk-analyzer.netlify.app
 
-### CredonSync 
+---
+
+## CredonSync
+
 A privacy-focused finance dashboard for tracking credit card spending, bills, and financial analytics. All data is stored locally in your browser.
+
 🔗 https://credonsync.vercel.app
+
 ---
 
 ## Professional Focus
