@@ -51,7 +51,7 @@ Tarkov Universal Tracker ———— Kappa Quest Tracker ———— Kappa Que
 Lightweight web-based Android package inspection tool for analyzing SDK usage, ABIs, native libraries, and framework dependencies.  
 🔗 https://apk-analyzer.netlify.app
 
-### CredonSync
+### CredonSync 
 A privacy-focused finance dashboard for tracking credit card spending, bills, and financial analytics. All data is stored locally in your browser.
 🔗 https://credonsync.vercel.app
 ---
